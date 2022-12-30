@@ -27,5 +27,8 @@
     "less-loader": "^7.2.1",
     "prettier": "2.4.1",
     "vue-jest": "^3.0.7"
+  },
+  "engines": {
+    "node": "16.18.1"
   }
 }
